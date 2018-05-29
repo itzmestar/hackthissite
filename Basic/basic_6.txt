@@ -1,0 +1,12 @@
+So encrytion can be done from the form itself.
+Lets try some encryption & see:
+abcd -> aceg
+1111 -> 1234
+aaaa -> abcd
+abcdefghij
+Pattern is very simple. can you guess it?
+
+each letter of word is added by its index or shifted right by its index.
+
+So just reverse the effect d775e5ji -> d652a0db
+Voila!

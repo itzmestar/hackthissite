@@ -1,0 +1,9 @@
+This is just an extension of last mission.
+Sam has finally uploaded the file on server which is an plain text file.
+Try to open the file in browser if that works.
+
+try these: password.txt
+or maybe: passwd
+or maybe: password
+
+and voila 

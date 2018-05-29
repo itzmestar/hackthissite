@@ -1,0 +1,11 @@
+1. open the source code in chrome developers tool.
+2. We can see that click on "Send password to Sam" sends the password to sam's email & email is harded as form data. 
+So if somehow we are able to modify the email in the POSTed variable then we can get the password.
+
+But since its a POST type form not GET type we can't actually write the variable value in URI as ?mailto=abc@example.com
+
+Luckily Chrome developers tool allow us to change the html attribute, inspect the "Send password to Sam" button & we can find the sam's email in source code.
+Right click & select Edit attribute.
+Change the email to your registered email on hackthissite.org & click the button.
+
+Voila!

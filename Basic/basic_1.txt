@@ -1,0 +1,3 @@
+1. open the developers tool to see the source code of the page.
+2. Check the form data.
+3. Check html comments just above the "password:" text for password.

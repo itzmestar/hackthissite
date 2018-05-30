@@ -1,0 +1,3 @@
+1. Open the chrome Developer tools.
+2. Inspect the "check password" element. check function is called.
+3. in check function, we can see password is cookies

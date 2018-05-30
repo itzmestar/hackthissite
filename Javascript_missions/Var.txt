@@ -1,0 +1,2 @@
+1. open the developer tools & inspect the js function check.
+2. if ( x == ""+RawrRawr+"" ) => x == ""+"moo"+"" => x == "moo"

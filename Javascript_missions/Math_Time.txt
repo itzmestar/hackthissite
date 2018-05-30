@@ -1,0 +1,4 @@
+1. so check function is just checking the length of password entered. & passwd len should be equal to moo var value.
+2. foo = 47; bar = 7 hence moo = 14
+3. enter any string of len 14
+4. voila!
